@@ -448,7 +448,7 @@ def main():
     else:
         print()
         print("  Thanks for using the Tech Stack Recommender!")
-        print("  Your path is now mapped. 🚀")
+        print("  Your path is now mapped. ")
         print("=" * 60)
         print()
 
