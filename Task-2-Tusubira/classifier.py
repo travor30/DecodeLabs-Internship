@@ -2,7 +2,7 @@
 # Project 2 - DecodeLabs Industrial Training | Batch 2026
 # Topic: Supervised Learning - K-Nearest Neighbors on the Iris Dataset
 
-# -------------------------------------------------------
+# ------------------------------------------------------
 # STEP 0: IMPORT LIBRARIES
 # Before coding, I need to bring in the tools I'll use.
 #
