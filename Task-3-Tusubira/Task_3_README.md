@@ -131,14 +131,14 @@ python recommender.py
   Skill 3: tensorflow
   (press Enter to get recommendations)
 
-  🥇 Data Scientist       Match: 48.2%  [█████████░░░░░░░░░░░]
-  🥈 AI Engineer          Match: 40.8%  [████████░░░░░░░░░░░░]
-  🥉 Machine Learning Eng Match: 29.1%  [█████░░░░░░░░░░░░░░░]
+   Data Scientist       Match: 48.2%  
+   AI Engineer          Match: 40.8%  
+   Machine Learning Eng Match: 29.1%  
 
 
 
 
-##  Skills Demonstrated
+
 
 `Python` `scikit-learn` `TF-IDF` `Cosine Similarity` `Content-Based Filtering` `NLP Feature Extraction` `Recommendation Systems` `Vector Mathematics` `IPO Architecture`
 
