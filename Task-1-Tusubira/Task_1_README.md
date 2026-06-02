@@ -102,11 +102,9 @@ DecoBot: Goodbye! Thanks for chatting. See you next time!
 
 
 
-##  Skills Demonstrated
-
-`Python` `Control Flow` `Dictionaries` `While Loops` `String Methods` `Modular Functions` `IPO Architecture` `Rule-Based AI`
 
 
 
 
-*DecodeLabs Industrial Training | Batch 2026 | AI Track*
+
+
