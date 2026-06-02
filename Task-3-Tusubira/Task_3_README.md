@@ -140,7 +140,6 @@ python recommender.py
 
 
 
-`Python` `scikit-learn` `TF-IDF` `Cosine Similarity` `Content-Based Filtering` `NLP Feature Extraction` `Recommendation Systems` `Vector Mathematics` `IPO Architecture`
 
 
 
